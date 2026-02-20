@@ -33,7 +33,17 @@ This experiment demonstrates how URLs can be mapped to React components to creat
 
 This improves performance and provides a seamless user experience.
 
-Screenshots: <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4aa4cd2b-99b4-448f-ae30-1cbd2a2c821c" />
+<img width="1764" height="1099" alt="Screenshot 2026-02-19 152100" src="https://github.com/user-attachments/assets/ca18bbf0-ccc6-4f64-b195-e325b8504db6" />
+<img width="1775" height="1106" alt="Screenshot 2026-02-19 152050" src="https://github.com/user-attachments/assets/a442d135-c61f-4920-9e11-2600974e1d80" />
+<img width="1773" height="1102" alt="Screenshot 2026-02-19 152034" src="https://github.com/user-attachments/assets/cf5af90c-4d5a-43c6-bd8b-60f26c403a1d" />
+<img width="1762" height="1080" alt="Screenshot 2026-02-19 151823" src="https://github.com/user-attachments/assets/0f6e81f6-e175-4156-9304-9399698ee457" />
+<img width="1764" height="1100" alt="Screenshot 2026-02-19 151814" src="https://github.com/user-attachments/assets/b30ddc94-15b9-436d-874e-c61eb05f4516" />
+
+<img width="1757" height="1079" alt="Screenshot 2026-02-19 151819" src="https://github.com/user-attachments/assets/48479013-03c6-449d-a52e-b96fd73137c1" />
+
+
+
+
 
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/663d5a98-c97b-4827-a22b-33b5f410ca35" />
