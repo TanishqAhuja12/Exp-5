@@ -46,8 +46,6 @@ This improves performance and provides a seamless user experience.
 
 
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/663d5a98-c97b-4827-a22b-33b5f410ca35" />
-
 Experiment: Multi-Page SPA Using Routing
 
 🌐 Multi-Page SPA Using Routing
@@ -74,9 +72,6 @@ In this approach: The application behaves like a multi-page website. Internally,
 
 Routing allows us to structure applications logically. Each component represents a page such as: Home About Services Contact
 
-Screenshots: <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1fe75112-181b-4a48-b745-d6221e4364a7" />
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/049723c1-e728-4748-bad1-1b7d0a9d724a" />
 
 Experiment: Navigation Using Link Component
 
@@ -101,7 +96,3 @@ React Router provides the Link component to handle navigation efficiently.
 
 How Link Works: It prevents default browser refresh behavior. It updates the URL. It renders the corresponding component instantly. It maintains application state.
 
-Screenshots: <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6fe4ad69-400d-4a40-98d6-75409d4f2582" />
-
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c7e22d46-f61c-49ad-94b1-8f072c831843" />
